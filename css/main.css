@@ -1,0 +1,120 @@
+body{
+ 
+    background-color: rgb(26, 149, 4);
+    filter: b;
+    margin: 0;
+  
+
+}
+
+
+
+    
+    #header1{
+        background-color:rgba(255, 1, 1, 0.906);
+        text-align: center;
+        padding: 15px 10px 0px 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        text-decoration: rgb(68, 68, 68);
+        font-style: normal;
+        font-variant: small-caps;
+        border-bottom: 5px solid #000000;
+        margin-bottom: 25px;
+        -webkit-text-stroke-width: 1px;
+      -webkit-text-stroke-color: black;
+      
+       
+    }
+      
+    
+    .picnidelmog{
+        display: flex;
+        flex-wrap:wrap;
+        gap: 5px;
+        justify-content: center;
+        align-items: center;
+         padding: 5px 5px; 
+         
+      
+    }
+    
+    .picnidelmog img{
+       
+        margin: 0% auto;
+        width: 100%;
+        max-width: 350px;
+        cursor: pointer;
+        height: 300px;
+        border-radius: 20px;
+        border: 5px solid rgb(166, 166, 166);
+    
+        
+    }
+    
+    img:hover{
+        opacity: 0.8;
+    }
+    
+    
+    
+
+
+header{
+    color: brown;
+    background-color:#ffa500;
+    padding: 20px;
+    text-align: center;
+    border-radius: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    color: #ffffff;
+    font-weight: 900;
+    
+    text-decoration: rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: small-caps;
+    border: 5px solid #000000;
+    margin-bottom: 25px;
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+   
+}
+
+  
+
+.picnidelmog{
+    display: flex;
+    flex-wrap:wrap;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+     padding: 5px 5px; 
+     
+     
+  
+}
+
+.picnidelmog img{
+   
+    margin: 0% auto;
+    width: 100%;
+    max-width: 350px;
+    cursor: pointer;
+    height: 300px;
+    border-radius: 20px;
+    border: 5px solid rgb(166, 166, 166);
+
+    
+}
+
+img:hover{
+    opacity: 0.8;
+}
+
+
+
+
+
+
